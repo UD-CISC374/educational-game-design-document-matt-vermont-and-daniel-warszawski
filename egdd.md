@@ -126,7 +126,7 @@ This game is for one player, they type with the keyboard.
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+ ! [Alt text] (./images/EducationalGameDevStoryboarding.jpg)
 
 -*Note in 2a, an F is marked on the front of the pipe to distinguish between 90 and 180 degrees.*
 -*Note in 2b the rectangle directly above the word “Please” is a textfield.*
