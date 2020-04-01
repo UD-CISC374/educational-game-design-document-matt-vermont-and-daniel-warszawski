@@ -2,7 +2,7 @@
 
 ## Elevator Pitch
 
--*The point of the game is to connect the two parts of pipe on either side by typing in the correct angle for the pipe in the middle so that the water may continue to flow to the end. Getting the number correct helps learn about angles and geometry.*
+- *The point of the game is to connect the two parts of pipe on either side by typing in the correct angle for the pipe in the middle so that the water may continue to flow to the end. Getting the number correct helps learn about angles and geometry.*
 
 ## Influences (Brief)
 
