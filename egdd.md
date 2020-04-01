@@ -7,14 +7,11 @@
 ## Influences (Brief)
 
 - *Plumber Pipe:*
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: *Game*
+  - Explanation: *Plumber pipe is set in a similar environment to this game in which the player is trying to connect the pipes in a way so that water can freely flow from a starting point to a desired destination.*
+- *Kitten Cannon:*:
+  - Medium: *Game*
+  - Explanation: *Kitten Cannon provides the player with instant feedback as to what launching angles are conducive to propelling the kitten the furthest.  Likewise this game gives the player instant feedback as to which angles of work and which angles don’t.*
 
 ## Core Gameplay Mechanics (Brief)
 
