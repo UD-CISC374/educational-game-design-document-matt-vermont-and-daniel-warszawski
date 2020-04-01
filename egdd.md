@@ -161,6 +161,6 @@ This game is for one player, they type with the keyboard.
 
 # Metadata
 
-- * Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.*
-- * Version 0.0.3*
-- * Matt Vermont and Daniel Warszawski Version 0.0.1*
+- *Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.*
+- *Version 0.0.3*
+- *Matt Vermont and Daniel Warszawski Version 0.0.1*
