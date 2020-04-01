@@ -2,7 +2,7 @@
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+*The point of the game is to connect the two parts of pipe on either side by typing in the correct angle for the pipe in the middle so that the water may continue to flow to the end. Getting the number correct helps learn about angles and geometry. *
 
 ## Influences (Brief)
 
