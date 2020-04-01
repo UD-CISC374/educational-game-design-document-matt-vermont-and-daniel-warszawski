@@ -39,7 +39,7 @@
 ## Learning Objectives
 
 - *Associate angles with images*: *By the end of the lesson, players will be able to identify objects oriented at 90, 180 and 270 degrees by their image.*
-- *Select angles in order to solve problems *: *By the end of the lesson, players will be able to identify which angle an object should be oriented at in order to meet criteria, such as solve a puzzle.*
+- *Select angles in order to solve problems*: *By the end of the lesson, players will be able to identify which angle an object should be oriented at in order to meet criteria, such as solve a puzzle.*
 
 
 ## Prerequisite Knowledge
