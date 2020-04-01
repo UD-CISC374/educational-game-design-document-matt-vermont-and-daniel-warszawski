@@ -9,28 +9,26 @@
 - *Plumber Pipe:*
   - Medium: *Game*
   - Explanation: *Plumber pipe is set in a similar environment to this game in which the player is trying to connect the pipes in a way so that water can freely flow from a starting point to a desired destination.*
-- *Kitten Cannon:*:
+- *Kitten Cannon:*
   - Medium: *Game*
   - Explanation: *Kitten Cannon provides the player with instant feedback as to what launching angles are conducive to propelling the kitten the furthest.  Likewise this game gives the player instant feedback as to which angles of work and which angles don’t.*
 
 ## Core Gameplay Mechanics (Brief)
-
-*Give a very high-level description of any core gameplay mechanics*
-
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- *Connect the left segment of pipe with the right segment of pipe by typing in a numeric value representing the angle the missing piece should be oriented at*
+- *Correct and Incorrect noises/visuals*
+- *After completing so many correct answers a message is displayed*
 
 # Learning Aspects
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+*The main domain we are targeting is Math, specifically angles.*
 
 ## Target Audiences
 
-*Who are your learners?*
+- *Our target audience would be students that are at the point in their math curriculum where they are studying angles.* 
+- *It is appropriate for all ages.*
+
 
 ## Target Contexts
 
