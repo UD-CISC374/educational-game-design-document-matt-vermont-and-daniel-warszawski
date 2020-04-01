@@ -32,145 +32,135 @@
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+- *This game could be assigned as an additional practice in a Math course which has angles as part of its curriculum.*
+- *It may not be conducive for students to play this game in school because of its audio component.*
+
 
 ## Learning Objectives
 
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
+- *Associate angles with images*: *By the end of the lesson, players will be able to identify objects oriented at 90, 180 and 270 degrees by their image.*
+- *Select angles in order to solve problems *: *By the end of the lesson, players will be able to identify which angle an object should be oriented at in order to meet criteria, such as solve a puzzle.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
 
 ## Prerequisite Knowledge
 
-*What do they need to know prior to trying this game?*
-
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- *Simple Math (Addition and Subtraction)*
+- *Basic understanding of degrees (360 in a circle, etc)*
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
+*A short pre/post test would be the best way to test students:*
+- *Find the angle of x with all other angles in a shape given.*
+- *What are the total degrees in a circle? Square? Etc…*
+- *Given an image of an object identify the angle that it is oriented at.*
 
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
 # What sets this project apart?
 
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- *Most ways to learn how to find the angle of something is the teacher sitting there and explaining it to you, which kids can find boring. This at least adds more excitement to the little kids lives.*
+- *There are fun graphics and audio associated with learning the material.*
+- *By not giving the kids multiple choices for an answer, it doesn’t allow the student to guess and get it right, forcing them to at least attempt the problem.*
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
-
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This game is for one player, they type with the keyboard.
 
 ## Player Modes
 
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
-
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- *Start Screen:* *Choosing to begin the game or start tutorial (if time permitting)*
+- *Tutorial:* *Following along on a simple level to learn how to play*
+- *Level:* *Each level will be different but increases in difficulty and played individually*
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+- *Connect the pipes in a way so that water can flow freely across the screen*:
+    - Description: *Enter the angle which the missing piece of pipe should be facing*
+    - Alignment: *In order for the segments of pipes to be properly connected you must understand which angle the missing piece needs to be oriented at.  When this happens you get credit towards advancing to the next level.*
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+*The player will click on the text box and type in the number of their choosing then press a button to see if they are correct, if they are, a new button will appear taking them to the next level.*
 
 # Rules
+- *If the player gets the number wrong, they will have to try again*
+- *If the player enters the wrong number there will be an auditory response from the game*
+- *If the player gets the number right, a button will appear to take them to the next level*
+- *A noise will be played when the player enters a correct answer* 
+- *The levels will be random, increasing in difficulty as more and more are correctly completed*
+- *Correct answers will start out simple (ex 90, 180, 270) but get increasingly more challenging*
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+- *Images for the pipes at different angles*
+- *Sounds and a background*
+- *Tutorial round to introduce the game*
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
-
+- *Rotating the missing pipe piece*: *You enter a numeric value representing the angle to rotate the pipe piece by typing with your keyboard and hitting enter.  When you hit enter the pipe piece will be rotated to the entered angle.*
+- *Correctly orienting the missing pipe piece*: *If you enter the correct angle then you will get auditory feedback and will make progress towards advancing in the game.*
+- *Incorrectly orienting the missing pipe piece*: *If you enter the correct angle then you will get auditory feedback and be asked to try again.*
+- *If you answer X Correct angles*: *If you enter X correct angles then the game will progress to the next level which will require the player to recognize additional angles besides 90, 180 and 270 degrees.*
+- *All levels complete*: *After all the levels are complete, a victory message appears*
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+- *Sounds and text are used when the player gets a question right or wrong which will cause a positive or negative affect*
+- *“Level X/N” will show how close the player is to finishing the game (X = current level, N = total levels)*
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+*A tutorial is an option that can be chosen on the menu screen for a new player to learn how to play the game..*
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+*By completing each level, they are practicing finding an angle that would match the shape they are looking at*
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+*The water needs to get to a city in desperate need of the water, and only by fixing the pipes below the ground will it get there.*
 
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+-*Note in 2a, an F is marked on the front of the pipe to distinguish between 90 and 180 degrees.*
+-*Note in 2b the rectangle directly above the word “Please” is a textfield.*
+
 # Assets Needed
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+*Since this is more of a children’s game, it should feel very happy and cartoony. Silly characters and happy background music should make the game feel fun and light-hearted.*
 
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+  - *City: People in the city that get fresh water at end of game*
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  *N/A*
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - *Background image: made to seem like the pipes are underground*
+  - *Pipes: Placed in different spots to show the correct answer*
+  - *Text Box: Place where the player puts their answer*
 
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - *Background music:*: *Light and breezy*
   
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
-
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - *Correct answer*: *High ‘bing’*
+  - *Incorrect answer*: *Loud ‘X” sound*
 
 
 # Metadata
 
-* Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.
-* Version 0.0.3
+- * Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.*
+- * Version 0.0.3*
+- * Matt Vermont and Daniel Warszawski Version 0.0.1*
