@@ -1,4 +1,4 @@
-# AngelsMaster
+# AnglesMaster
 
 ## Elevator Pitch
 
@@ -17,6 +17,7 @@
 - *Connect the left segment of pipe with the right segment of pipe by typing in a numeric value representing the angle the missing piece should be oriented at*
 - *Correct and Incorrect noises/visuals*
 - *After completing so many correct answers a message is displayed*
+- *Connect individual pipe pieces to create a resulting piece*
 
 # Learning Aspects
 
@@ -38,7 +39,8 @@
 
 ## Learning Objectives
 
-- *Associate angles with images*: *By the end of the lesson, players will be able to identify objects oriented at 90, 180 and 270 degrees by their image.*
+- *Associate angles with images*: *By the end of the lesson, players will be able to identify objects oriented at different degrees by their image (Degrees can vary anywhere from 0 - 360).*
+- *Add and subtract angles* *By the end of the lesson, players will be able to identify the resulting angle from adding or subtracting two angles.*
 - *Select angles in order to solve problems*: *By the end of the lesson, players will be able to identify which angle an object should be oriented at in order to meet criteria, such as solve a puzzle.*
 
 
@@ -102,6 +104,7 @@ This game is for one player, they type with the keyboard.
 - *Rotating the missing pipe piece*: *You enter a numeric value representing the angle to rotate the pipe piece by typing with your keyboard and hitting enter.  When you hit enter the pipe piece will be rotated to the entered angle.*
 - *Correctly orienting the missing pipe piece*: *If you enter the correct angle then you will get auditory feedback and will make progress towards advancing in the game.*
 - *Incorrectly orienting the missing pipe piece*: *If you enter the correct angle then you will get auditory feedback and be asked to try again.*
+- *The final level will involve combining two pipe pieces to produce a new pipe piece that is oriented at an angle which is the sum of the angles of its parts.*
 - *If you answer X Correct angles*: *If you enter X correct angles then the game will progress to the next level which will require the player to recognize additional angles besides 90, 180 and 270 degrees.*
 - *All levels complete*: *After all the levels are complete, a victory message appears*
     
